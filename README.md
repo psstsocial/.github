@@ -1,3 +1,3 @@
-# psst! social
+# psst! social .github
 
-psst! Is the new incarnation of everything that facebook pokes should be.
+This repo holds basic github configuration for the psstsocial organization.
